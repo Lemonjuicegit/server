@@ -1,0 +1,10 @@
+{
+  "name": "My Project",
+  "version": "0.0.1",
+  "database": {
+    "server": "E:\\exploitation\\collection\\server\\db.sqlite3",
+    "port": "",
+    "password": "",
+    "drivers": "sqlite"
+  }
+}

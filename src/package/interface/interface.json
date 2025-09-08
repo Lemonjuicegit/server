@@ -1,0 +1,242 @@
+{
+  "interface": [
+    {
+      "name": "package",
+      "key": "0",
+      "ms": "\u9876\u7ea7\u5305",
+      "module": "package",
+      "type": "catalog",
+      "id": [0],
+      "child": false,
+      "children": [
+        {
+          "name": "interface",
+          "key": "00",
+          "ms": "\u63a5\u53e3\u76f8\u5173\u7684\u5904\u7406\u6a21\u5757",
+          "module": "package.interface",
+          "type": "catalog",
+          "id": [0, 0],
+          "args": [],
+          "key_args": {},
+          "return": [],
+          "child": false,
+          "children": [
+            {
+              "name": "getInterface",
+              "key": "000",
+              "ms": "\u83b7\u5f97\u63a5\u53e3json\u6570\u636e",
+              "module": "package.interface",
+              "type": "func",
+              "id": [0, 0, 0],
+              "args": [],
+              "key_args": {},
+              "return": ["dcit"],
+              "child": true,
+              "children": []
+            },
+            {
+              "name": "upInterface",
+              "key": "001",
+              "ms": "",
+              "module": "package.interface",
+              "type": "func",
+              "id": [0, 0, 1],
+              "args": ["dict"],
+              "key_args": {},
+              "return": [],
+              "child": true,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "getServerIp",
+          "key": "01",
+          "ms": "\u83b7\u53d6\u670d\u52a1\u672c\u673aip",
+          "module": "package",
+          "type": "func",
+          "id": [0, 1],
+          "args": [],
+          "key_args": {},
+          "return": ["str"],
+          "child": true,
+          "children": []
+        },
+        {
+          "name": "gdMap",
+          "key": "02",
+          "ms": "\u83b7\u53d6\u9ad8\u5fb7\u5730\u56fe\u6570\u636e",
+          "module": "package.gdMap",
+          "type": "catalog",
+          "id": [0, 2],
+          "args": [],
+          "key_args": {},
+          "return": [],
+          "child": false,
+          "children": [
+            {
+              "name": "getURL",
+              "key": "020",
+              "ms": "\u9ad8\u5fb7\u5730\u56fe\u591a\u8fb9\u5f62\u67e5\u8be2url",
+              "module": "package.gdMap",
+              "type": "func",
+              "id": [0, 2, 0],
+              "args": ["str"],
+              "key_args": {},
+              "return": ["str"],
+              "child": true,
+              "children": []
+            },
+            {
+              "name": "getPlaceData_cll",
+              "key": "021",
+              "ms": "\u9ad8\u5fb7\u5730\u56fe\u591a\u8fb9\u5f62\u67e5\u8be2",
+              "module": "package.gdMap",
+              "type": "func",
+              "id": [0, 2, 1],
+              "args": ["upload", "list", "send"],
+              "key_args": {},
+              "return": ["filelist"],
+              "child": true,
+              "children": []
+            },
+            {
+              "name": "geocoding",
+              "key": "022",
+              "ms": "\u901a\u8fc7\u5730\u5740\u67e5\u627e\u9ad8\u5fb7\u5730\u56fepoi\u6570\u636e",
+              "module": "package.gdMap",
+              "type": "func",
+              "id": [0, 2, 2],
+              "args": ["upload", "send", "send", "str", "int"],
+              "key_args": {},
+              "return": [],
+              "child": true,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "coordinateStr",
+          "key": "03",
+          "ms": "\u751f\u6210txt\u5750\u6807\u4e32\u6a21\u5757",
+          "module": "package",
+          "type": "catalog",
+          "id": [0, 3],
+          "args": [],
+          "key_args": {},
+          "return": [],
+          "child": false,
+          "children": [
+            {
+              "name": "coordinate_txt",
+              "key": "030",
+              "ms": "\u751f\u6210txt\u5750\u6807\u4e32\u6a21\u5757\u66b4\u9732\u63a5\u53e3",
+              "module": "package.coordinateStr",
+              "type": "func",
+              "id": [0, 3, 0],
+              "args": ["upload", "dict", "ip", "int"],
+              "key_args": {},
+              "return": ["filelist"],
+              "child": true,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "test",
+          "key": "04",
+          "ms": "\u751f\u6210txt\u5750\u6807\u4e32\u6a21\u5757",
+          "module": "package",
+          "type": "catalog",
+          "id": [0, 4],
+          "args": [],
+          "key_args": {},
+          "return": [],
+          "child": false,
+          "children": [
+            {
+              "name": "stream",
+              "key": "040",
+              "ms": "\u52a0\u6cd5",
+              "module": "package.test",
+              "type": "func",
+              "id": [0, 4, 0],
+              "args": ["int", "int"],
+              "key_args": {},
+              "return": ["int"],
+              "child": true,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "manage",
+          "key": "05",
+          "ms": "",
+          "module": "package.manage",
+          "type": "module",
+          "id": [0, 5],
+          "args": [],
+          "key_args": {},
+          "return": [],
+          "child": false,
+          "children": [
+            {
+              "name": "getRouterName",
+              "key": "050",
+              "ms": "",
+              "module": "package.manage",
+              "type": "func",
+              "id": [0, 5, 0],
+              "args": [],
+              "key_args": {},
+              "return": ["list"],
+              "child": true,
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "handleGeometry",
+          "key": "06",
+          "ms": "",
+          "module": "package.handleGeometry",
+          "type": "catalog",
+          "id": [0, 6],
+          "args": [],
+          "key_args": {},
+          "return": [],
+          "child": false,
+          "children": [
+            {
+              "name": "nearPoint",
+              "key": "060",
+              "ms": "\u5220\u9664\u8ddd\u79bb\u8fc7\u8fd1\u7684\u70b9",
+              "module": "package.handleGeometry",
+              "type": "func",
+              "id": [0, 6, 0],
+              "args": ["upload", "float", "send"],
+              "key_args": {},
+              "return": ["filelist"],
+              "child": true,
+              "children": []
+            },
+            {
+              "name": "getGeojson",
+              "key": "061",
+              "ms": "",
+              "module": "package.handleGeometry",
+              "type": "func",
+              "id": [0, 6, 1],
+              "args": ["upload", "int"],
+              "key_args": {},
+              "return": ["dict"],
+              "child": true,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

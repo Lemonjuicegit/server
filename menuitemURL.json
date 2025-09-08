@@ -1,0 +1,1273 @@
+{
+  "xm1": {
+    "data": [
+      {
+        "URL": "https://f.kdocs.cn/ksform/w/write/hQpkcqpA#routePromt",
+        "id": 1,
+        "color": "#b3e19d",
+        "router_name": "198b593a6295403996f3c8a4f2202309",
+        "title": "\u767b\u8bb0\u5361",
+        "name": "8ebc039e-2e95-476d-8b52-c4cce60b6e24",
+        "path": "test",
+        "parent_name": "top"
+      },
+      {
+        "URL": "https://www.kdocs.cn/wo/sl/v31xu8h1?app_id=1p1s84MLyzLWGQjZrQIYlq",
+        "id": 2,
+        "color": "#b3e19d",
+        "router_name": "198b593a6295403996f3c8a4f2202309",
+        "title": "\u6210\u679c\u767b\u8bb0\u5e93",
+        "name": "05ed5489-3535-4b66-9240-d0b126153c0c",
+        "path": "/iframe",
+        "parent_name": "top"
+      },
+      {
+        "URL": "https://www.kdocs.cn/wo/sl/v3388f6P?app_id=4KuXxCCxxA45ZbLA87oE5v",
+        "id": 3,
+        "color": "#b3e19d",
+        "router_name": "198b593a6295403996f3c8a4f2202309",
+        "title": "\u5916\u534f\u652f\u4ed8\u53f0\u8d26",
+        "name": "12574f63-df5f-4b7d-8bf5-9b1d1cfe2ab6",
+        "path": "/iframe",
+        "parent_name": "top"
+      },
+      {
+        "URL": "https://www.kdocs.cn/wo/sl/v3AL8FX?app_id=5uw77gmFQ9ya7HhaUUNV76",
+        "id": 4,
+        "color": "#b3e19d",
+        "router_name": "198b593a6295403996f3c8a4f2202309",
+        "title": "\u5de5\u4f5c\u91cf\u67e5\u770b",
+        "name": "baa4eb62-bc6b-492f-b308-18d221e7a6db",
+        "path": "/iframe",
+        "parent_name": "top"
+      },
+      {
+        "URL": "https://www.kdocs.cn/wo/sl/v33PaTbv?app_id=3cE9V57wD713Ootdz4sF8H",
+        "id": 5,
+        "color": "#b3e19d",
+        "router_name": "198b593a6295403996f3c8a4f2202309",
+        "title": "\u5386\u53f2\u5165\u5e93\u67e5\u8be2",
+        "name": "bdfda074-9d45-4084-826b-58346456fcde",
+        "path": "/iframe",
+        "parent_name": "top"
+      },
+      {
+        "URL": "https://www.kdocs.cn/wo/sl/v32MtYxC?app_id=1fTL1bwAsIJ7WM17CTiE23",
+        "id": 6,
+        "color": "#b3e19d",
+        "router_name": "198b593a6295403996f3c8a4f2202309",
+        "title": "\u7ee9\u6548\u786e\u5b9a\u8868",
+        "name": "f1905890-f065-471a-b1ee-89cbea85d2a1",
+        "path": "/iframe",
+        "parent_name": "top"
+      }
+    ],
+    "title": "\u9879\u76ee\u4e00\u7ec4",
+    "permissions": 7
+  },
+  "xm2": {
+    "data": [
+      {
+        "title": "\u767b\u8bb0\u5361",
+        "name": "e7932b0c-8ce5-410c-9420-d0758bdcde0a",
+        "URL": "https://f.kdocs.cn/ksform/w/write/hQpkcqpA#routePromt",
+        "path": "/iframe",
+        "color": "#b3e19d",
+        "child": true
+      },
+      {
+        "title": "\u5386\u53f2\u5165\u5e93\u67e5\u8be2",
+        "name": "47731a65-4676-433e-aa35-5e5e0e0acebb",
+        "URL": "https://www.kdocs.cn/wo/sl/v33PaTbv?app_id=3cE9V57wD713Ootdz4sF8H",
+        "path": "/iframe",
+        "color": "#b3e19d",
+        "child": true
+      },
+      {
+        "title": "\u6210\u679c\u767b\u8bb0\u5e93",
+        "name": "ffa750a6-9ad6-4244-afe7-5263bde603a5",
+        "URL": "https://www.kdocs.cn/wo/sl/v33DplYO?app_id=3R6PyInpOmkdtvqTeoh4P0",
+        "path": "/iframe",
+        "color": "#b3e19d",
+        "child": true
+      },
+      {
+        "title": "\u5de5\u4f5c\u91cf\u767b\u8bb0\u53f0\u8d26",
+        "name": "333bfa8d-e304-46c5-8396-d30eafdaad02",
+        "URL": "https://www.kdocs.cn/wo/sl/v3AL8FX?app_id=5uw77gmFQ9ya7HhaUUNV76",
+        "path": "/iframe",
+        "color": "#b3e19d",
+        "child": true
+      },
+      {
+        "title": "\u5916\u534f\u652f\u4ed8\u53f0\u8d26",
+        "name": "fa75fbaa-a1b3-4056-a25c-402cbd14d273",
+        "URL": "https://www.kdocs.cn/wo/sl/v3143awV?app_id=vYnKCsX396cg4zn2iMyle",
+        "path": "/iframe",
+        "color": "#b3e19d",
+        "child": true
+      },
+      {
+        "title": "\u7ee9\u6548\u786e\u5b9a\u8868",
+        "name": "382c5564-a08d-461d-8f0a-429a85107363",
+        "URL": "https://www.kdocs.cn/wo/sl/v31rM9wU?app_id=4cDhVecH9Fp493LbXvdF72",
+        "path": "/iframe",
+        "color": "#b3e19d",
+        "child": true
+      }
+    ],
+    "title": "\u9879\u76ee\u4e8c\u7ec4",
+    "permissions": 7
+  },
+  "xm3": {
+    "data": [
+      {
+        "title": "\u767b\u8bb0\u5361",
+        "name": "ce69896a-8b92-498e-8a5e-638933478b30",
+        "URL": "https://f.kdocs.cn/ksform/w/write/hQpkcqpA#routePromt",
+        "path": "/iframe",
+        "color": "#b3e19d",
+        "child": true
+      },
+      {
+        "title": "\u5386\u53f2\u5165\u5e93\u67e5\u8be2",
+        "name": "c950f4d7-0cd2-4d88-b09e-5361700d520c",
+        "URL": "https://www.kdocs.cn/wo/sl/v33PaTbv?app_id=3cE9V57wD713Ootdz4sF8H",
+        "path": "/iframe",
+        "color": "#b3e19d",
+        "child": true
+      },
+      {
+        "title": "\u6210\u679c\u767b\u8bb0\u5e93",
+        "name": "b4ae4b8f-2ce4-4d55-9d4b-26885e0de5be",
+        "URL": "https://www.kdocs.cn/wo/sl/v31e2IYW?app_id=auGW3Tr7rwyKiy5Vf6nhN",
+        "path": "/iframe",
+        "color": "#b3e19d",
+        "child": true
+      },
+      {
+        "title": "\u5de5\u4f5c\u91cf\u767b\u8bb0\u53f0\u8d26",
+        "name": "b33ac113-2243-4b22-967e-1dd27f6f5653",
+        "URL": "https://www.kdocs.cn/wo/sl/v3AL8FX?app_id=5uw77gmFQ9ya7HhaUUNV76",
+        "path": "/iframe",
+        "color": "#b3e19d",
+        "child": true
+      },
+      {
+        "title": "\u5916\u534f\u652f\u4ed8\u53f0\u8d26",
+        "name": "db5ae291-8d76-4e66-af07-46c603ccbf5a",
+        "URL": "https://www.kdocs.cn/wo/sl/v316LTXF?app_id=2T1TjzE5cNY2A44BfM8seu",
+        "path": "/iframe",
+        "color": "#b3e19d",
+        "child": true
+      },
+      {
+        "title": "\u7ee9\u6548\u786e\u5b9a\u8868",
+        "name": "857b7f97-b6c3-4eca-8ab8-81c3528d9072",
+        "URL": "https://www.kdocs.cn/wo/sl/v33ZepEC?app_id=4ALfYtLD194w1zf0fiiqy2",
+        "path": "/iframe",
+        "color": "#e1d89d",
+        "child": true
+      },
+      {
+        "title": "\u65b0\u5efa\u5206\u7ec4",
+        "name": "316a5464-7dbd-4ab3-a3bf-7dc0a78c95ee",
+        "child": false,
+        "color": "#e1d89d",
+        "children": []
+      }
+    ],
+    "title": "\u9879\u76ee\u4e09\u7ec4",
+    "permissions": 7
+  },
+  "xm4": {
+    "data": [
+      {
+        "title": "\u9879\u76ee\u8ddf\u8e2a\u767b\u8bb0",
+        "name": "6e3f1807-503d-4245-ac28-60deb516ca5a",
+        "child": false,
+        "color": "#79bbff",
+        "children": [
+          {
+            "title": "\u767b\u8bb0\u5361",
+            "name": "b2d951b2-a942-4dfd-aedb-65f7d854a50f",
+            "URL": "https://f.kdocs.cn/ksform/w/write/hQpkcqpA#routePromt",
+            "path": "/iframe",
+            "color": "#ffe9ad",
+            "child": true
+          },
+          {
+            "title": "\u7ee9\u6548\u786e\u5b9a\u8868",
+            "name": "5ab028b3-ed5c-441a-a5c9-af00efb32925",
+            "URL": "https://www.kdocs.cn/wo/sl/v347LpMh?app_id=6ogLWoC4HRFgZlaBOavf9w",
+            "path": "/iframe",
+            "color": "#ffdfad",
+            "child": true
+          },
+          {
+            "title": "\u9879\u76ee\u8ddf\u8e2a\u767b\u8bb0\u603b\u53f0\u8d26",
+            "name": "8ea7a3ba-4204-4bfb-88cf-70461eeda0af",
+            "URL": "http://192.168.2.139:45454/jylsgd/#/iframe",
+            "path": "/iframe",
+            "child": true,
+            "color": "#ffdfad",
+            "children": []
+          },
+          {
+            "title": "\u6210\u679c\u7ba1\u7406\u6838\u5b9e\u53f0\u8d26",
+            "name": "db9e47b4-8461-4556-89d0-48c1fee32e92",
+            "URL": "https://kdocs.cn/l/cbU4GOWKIxpK",
+            "path": "/iframe",
+            "color": "#ffdfad",
+            "child": true
+          }
+        ]
+      },
+      {
+        "title": "\u4f73\u6e1d\u6570\u5b57\u529e\u516c\u7cfb\u7edf",
+        "name": "1730ebba-baa9-4fe0-ab9f-fe2685230d4d",
+        "URL": "http://192.168.2.200:8080/homepage",
+        "path": "/iframe",
+        "child": true,
+        "color": "#79bbff",
+        "children": []
+      },
+      {
+        "title": "\u9879\u76ee\u7ba1\u7406\uff08\u56db\u90e8\uff09",
+        "name": "cdd2b00d-0f9c-457f-bdd1-dd57a31af679",
+        "URL": "https://www.kdocs.cn/l/clbk45nL8ITa?R=L1MvMw==",
+        "path": "/iframe",
+        "color": "#79bbff",
+        "child": true
+      }
+    ],
+    "title": "\u9879\u76ee\u56db\u7ec4",
+    "permissions": 7
+  },
+  "xm5": {
+    "data": [
+      {
+        "title": "\u767b\u8bb0\u5361",
+        "name": "3fdada4d-f16e-4fca-870d-48a76b32feef",
+        "URL": "https://f.kdocs.cn/ksform/w/write/hQpkcqpA#routePromt",
+        "path": "/iframe",
+        "color": "#b3e19d",
+        "child": true
+      },
+      {
+        "title": "\u5386\u53f2\u5165\u5e93\u67e5\u8be2",
+        "name": "78578ddd-a7f8-47fb-b99a-4112220a01c9",
+        "URL": "https://www.kdocs.cn/wo/sl/v33PaTbv?app_id=3cE9V57wD713Ootdz4sF8H",
+        "path": "/iframe",
+        "color": "#b3e19d",
+        "child": true
+      },
+      {
+        "title": "\u6210\u679c\u767b\u8bb0\u5e93",
+        "name": "259acec5-f744-4b06-b277-f861814f83f1",
+        "URL": "https://www.kdocs.cn/wo/sl/v3mUNXI?app_id=71Pnv9FgbowOiouXyeLZ9J",
+        "path": "/iframe",
+        "color": "#b3e19d",
+        "child": true,
+        "children": []
+      },
+      {
+        "title": "\u5916\u534f\u652f\u4ed8\u53f0\u8d26",
+        "name": "a59afa0c-ab6d-49d7-9f80-64259aaaa14c",
+        "URL": "https://www.kdocs.cn/wo/sl/v3WBRmk?app_id=79RgMB9J9BOjNox8Hjw7cX",
+        "path": "/iframe",
+        "color": "#b3e19d",
+        "child": true
+      },
+      {
+        "title": "\u7ee9\u6548\u786e\u5b9a\u8868",
+        "name": "069f9787-55fd-4955-a94b-38dc5720cbc3",
+        "URL": "https://www.kdocs.cn/wo/sl/v31CUkB6?app_id=lbfT7mUrxgtbAnezK0p37",
+        "path": "/iframe",
+        "color": "#b3e19d",
+        "child": true
+      },
+      {
+        "title": "\u5de5\u4f5c\u91cf\u67e5\u770b",
+        "name": "d198e3f2-09eb-44a7-b3bc-c932b3129637",
+        "URL": "https://www.kdocs.cn/wo/sl/v3AL8FX?app_id=5uw77gmFQ9ya7HhaUUNV76",
+        "path": "/iframe",
+        "color": "#b3e19d",
+        "child": true
+      }
+    ],
+    "title": "\u8c03\u67e5\u76d1\u6d4b\u90e8",
+    "permissions": 7
+  },
+  "tswglzz": {
+    "data": [
+      {
+        "title": "\u767b\u8bb0\u5165\u53e3",
+        "name": "b821c64e-afa2-4b38-b588-0cab50022479",
+        "child": false,
+        "color": "#79bbff",
+        "children": [
+          {
+            "title": "\u524d\u671f\u6d3d\u8c08\u767b\u8bb0",
+            "name": "66ef64e8-8572-4dcf-85f1-c01f99f681e7",
+            "URL": "https://f.kdocs.cn/g/4zNq470r/",
+            "path": "/iframe",
+            "color": "#b3e19d",
+            "child": true
+          },
+          {
+            "title": "\u5165\u5e93\u5de5\u4f5c\u91cf\u767b\u8bb0",
+            "name": "be0a0428-0f76-4c4d-9207-7ac45adcedb3",
+            "URL": "https://f.kdocs.cn/g/cu8lcqCW/",
+            "path": "/iframe",
+            "color": "#b3e19d",
+            "child": true
+          }
+        ]
+      },
+      {
+        "title": "\u9879\u76ee\u7ba1\u7406",
+        "name": "9649b089-7b00-4e23-8006-9045b7ff457e",
+        "child": false,
+        "color": "#79bbff",
+        "children": [
+          {
+            "title": "\u524d\u671f\u6d3d\u8c08\u4e2d",
+            "name": "63493133-cec0-4788-9f11-b45e9edf0f6c",
+            "URL": "https://www.kdocs.cn/wo/sl/v3bQd55?app_id=2xYNfYPghLEMA3TxJKNcDB",
+            "path": "/iframe",
+            "color": "#b3e19d",
+            "child": true
+          },
+          {
+            "title": "\u9879\u76ee\u7acb\u9879\u4e2d",
+            "name": "dc978f17-cc1a-4f2c-b081-83caf3bf1a3c",
+            "child": false,
+            "color": "#b3e19d",
+            "children": [
+              {
+                "title": "\u672a\u7b7e\u5408\u540c",
+                "name": "8fca25af-aa41-45c5-b94a-26c5f7f23a2a",
+                "URL": "https://www.kdocs.cn/wo/sl/v317eoyv?app_id=6vb7UlPBhwLjloWadcGad6",
+                "path": "/iframe",
+                "color": "#f59f70",
+                "child": true
+              },
+              {
+                "title": "\u5df2\u7b7e\u5408\u540c",
+                "name": "c8aed6b2-6f72-4e1b-97df-a9ab19bc3e31",
+                "URL": "https://www.kdocs.cn/wo/sl/v32staBW?app_id=7oUuaw4nVUNnPAUP7KkrKX",
+                "path": "/iframe",
+                "color": "#f59f70",
+                "child": true
+              }
+            ]
+          },
+          {
+            "title": "\u9057\u5931\u9879\u76ee",
+            "name": "c9699de1-4970-449f-8ca8-8e3ca31113ec",
+            "URL": "https://www.kdocs.cn/wo/sl/v34aaVca?app_id=4YKYa6welQ37pwiTExGq1M",
+            "path": "/iframe",
+            "color": "#b3e19d",
+            "child": true
+          },
+          {
+            "title": "\u5408\u540c\u7ba1\u7406",
+            "name": "0b33b1c4-69c3-4cbf-ad49-0627013c1563",
+            "URL": "https://www.kdocs.cn/wo/sl/v32sBDld?app_id=2lsdrJ0mMEO9F7VMZlGsTO",
+            "path": "/iframe",
+            "color": "#b3e19d",
+            "child": true
+          },
+          {
+            "title": "\u6210\u679c\u7ba1\u7406",
+            "name": "11e87bae-8bfc-41db-844b-f3dbf410b741",
+            "URL": "https://www.kdocs.cn/wo/sl/v32qxbbc?app_id=5hoLQOOHJkTFrJd8yKctPA",
+            "path": "/iframe",
+            "color": "#b3e19d",
+            "child": true
+          },
+          {
+            "title": "\u5165\u5e93\u7ba1\u7406",
+            "name": "5caf75fc-29f6-4c77-8bf0-cacc0d17a91d",
+            "URL": "https://www.kdocs.cn/wo/sl/v3CtSii?app_id=1sqOcQX40JGigjcWaiEcsw",
+            "path": "/iframe",
+            "color": "#b3e19d",
+            "child": true
+          }
+        ]
+      },
+      {
+        "title": "\u8d22\u52a1\u7ba1\u7406",
+        "name": "a5a6ccdb-8dfb-4196-8e57-82ceef58c383",
+        "child": false,
+        "color": "#79bbff",
+        "children": [
+          {
+            "title": "\u5e94\u6536\u672a\u6536\u7ba1\u7406",
+            "name": "6dd888a1-1540-4eff-9e36-1b79d270049d",
+            "URL": "https://www.kdocs.cn/wo/sl/v3Sk6oc?app_id=745BpCiIRdOeyBI8L1DVxM",
+            "path": "/iframe",
+            "color": "#b3e19d",
+            "child": true
+          },
+          {
+            "title": "\u5f00\u7968\u56de\u6b3e\u7ba1\u7406",
+            "name": "f35371f2-7aae-419e-aa66-4fb13870f8b3",
+            "URL": "https://www.kdocs.cn/wo/sl/v31GEQDU?app_id=2afnluuXKUGoT3GicBFCPX",
+            "path": "/iframe",
+            "color": "#b3e19d",
+            "child": true
+          }
+        ]
+      },
+      {
+        "title": "\u7ee9\u6548\u7ba1\u7406",
+        "name": "df890786-40bb-4488-872d-a7c8add29556",
+        "child": false,
+        "color": "#79bbff",
+        "children": [
+          {
+            "title": "\u5de5\u4f5c\u91cf\u67e5\u770b",
+            "name": "74b02a1d-0d47-4fd8-831d-5ae1cd1d3228",
+            "URL": "https://www.kdocs.cn/wo/sl/v32PQHxa?app_id=6S3wBrVTsEBmfV69vNZKD6",
+            "path": "/iframe",
+            "color": "#b3e19d",
+            "child": true
+          },
+          {
+            "title": "\u9879\u76ee\u7ec4\u7ee9\u6548\u989d\u5ea6\u6838\u5b9e",
+            "name": "96e3dc18-a427-4abe-a0f3-64f07596f6ef",
+            "URL": "https://www.kdocs.cn/wo/sl/v32hN3mG?app_id=3WvH5t76rhNj7Ut1V5amf9",
+            "path": "/iframe",
+            "color": "#b3e19d",
+            "child": true
+          },
+          {
+            "title": "\u603b\u7ee9\u6548\u6838\u5b9e",
+            "name": "41d657b9-8fd5-4dda-895c-13f18c0084fe",
+            "child": false,
+            "color": "#b3e19d",
+            "children": [
+              {
+                "title": "\u603b\u7ee9\u6548\u989d\u5ea6\u6838\u5b9e",
+                "name": "ec1d56c7-ae92-42c4-a547-c50657688978",
+                "URL": "https://www.kdocs.cn/wo/sl/v33LnxSq?app_id=3ForMQnYkVuT6GRQJmJAeC",
+                "path": "/iframe",
+                "color": "#f59f70",
+                "child": true
+              },
+              {
+                "title": "\u53d1\u653e\u65f6\u95f4\u6838\u5b9e",
+                "name": "6906845d-3eef-4469-ae62-70a5d5d2a7c3",
+                "URL": "https://www.kdocs.cn/wo/sl/v38MhDF?app_id=2uhEHO5rSw1F3vg54tlGSU",
+                "path": "/iframe",
+                "color": "#f59f70",
+                "child": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "\u7edf\u8ba1\u6c47\u603b",
+        "name": "c91a9724-e963-4f13-a29f-55d067fcbdc3",
+        "child": false,
+        "color": "#79bbff",
+        "children": [
+          {
+            "title": "\u6309\u9879\u76ee\u7edf\u8ba1",
+            "name": "2ad193f2-aea3-4963-ae9d-1e735ff32005",
+            "child": false,
+            "color": "#b3e19d",
+            "children": [
+              {
+                "title": "\u9879\u76ee\u7edf\u8ba1\u6c47\u603b",
+                "name": "ad4daff7-8b8e-4009-92dc-69b4588054a3",
+                "URL": "https://www.kdocs.cn/wo/sl/v11EcNMP",
+                "path": "/iframe",
+                "color": "#f59f70",
+                "child": true
+              },
+              {
+                "title": "\u65b0\u589e\u9879\u76ee\u6c47\u603b",
+                "name": "e3ef546a-8419-40c9-a895-7e14ed3cc561",
+                "URL": "https://www.kdocs.cn/wo/sl/v1zm9Fc",
+                "path": "/iframe",
+                "color": "#f59f70",
+                "child": true
+              },
+              {
+                "title": "\u5e94\u6536\u672a\u6536\u6c47\u603b",
+                "name": "0c1ade8e-e7b7-4727-a027-38f25b6a6d22",
+                "URL": "https://www.kdocs.cn/wo/sl/v13ATdiN",
+                "path": "/iframe",
+                "color": "#f59f70",
+                "child": true
+              }
+            ]
+          },
+          {
+            "title": "\u5185\u90e8\u5206\u644a\u7edf\u8ba1",
+            "name": "b83f2b4f-d9bc-4d98-8d24-52780b56e5ae",
+            "child": false,
+            "color": "#b3e19d",
+            "children": [
+              {
+                "title": "\u6210\u679c\u7edf\u8ba1\u6c47\u603b",
+                "name": "aa2db4ef-ffc0-4bc2-8c15-e3c5460a82fc",
+                "URL": "https://www.kdocs.cn/wo/sl/v14DpZYg",
+                "path": "/iframe",
+                "color": "#f59f70",
+                "child": true
+              },
+              {
+                "title": "\u6210\u679c\u65b0\u589e\u6c47\u603b",
+                "name": "258bbe37-5cdd-4490-a3ec-81e4fd1c8c88",
+                "URL": "https://www.kdocs.cn/wo/sl/v1fVrOU",
+                "path": "/iframe",
+                "color": "#f59f70",
+                "child": true
+              },
+              {
+                "title": "\u5e94\u6536\u672a\u6536\u6c47\u603b",
+                "name": "e2da3f54-774e-4960-aa72-cd9023a7006c",
+                "URL": "https://www.kdocs.cn/wo/sl/v11xiO8r",
+                "path": "/iframe",
+                "color": "#f59f70",
+                "child": true
+              },
+              {
+                "title": "\u56de\u6b3e\u6c47\u603b\u8868",
+                "name": "65017144-d748-43b4-b83e-4773ecf0dd5c",
+                "URL": "https://www.kdocs.cn/wo/sl/v12cancL",
+                "path": "/iframe",
+                "color": "#f59f70",
+                "child": true
+              }
+            ]
+          },
+          {
+            "title": "\u6309\u8d23\u4efb\u5bf9\u8c61\u7edf\u8ba1",
+            "name": "291e1962-7f7f-4846-b9b0-ee56555c954e",
+            "child": false,
+            "color": "#b3e19d",
+            "children": [
+              {
+                "title": "\u6d88\u606f\u6765\u6e90\u6c47\u603b\u8868",
+                "name": "abb8dfcf-176e-4100-ab88-f1b81b337f9a",
+                "URL": "https://www.kdocs.cn/wo/sl/v13uOklJ",
+                "path": "/iframe",
+                "color": "#f59f70",
+                "child": true
+              },
+              {
+                "title": "\u5e02\u573a\u8d1f\u8d23\u6c47\u603b\u8868",
+                "name": "53d15951-9de0-428e-ae94-61a616aff97c",
+                "URL": "https://www.kdocs.cn/wo/sl/v1O6Uxr",
+                "path": "/iframe",
+                "color": "#f59f70",
+                "child": true
+              },
+              {
+                "title": "\u9879\u76ee\u8d1f\u8d23\u6c47\u603b\u8868",
+                "name": "eb27730e-95e9-4caa-b1a1-60457c5f6650",
+                "URL": "https://www.kdocs.cn/wo/sl/v1XZQFC",
+                "path": "/iframe",
+                "color": "#f59f70",
+                "child": true
+              },
+              {
+                "title": "\u5e94\u6536\u672a\u6536_\u5e02\u573a\u8d1f\u8d23",
+                "name": "38115d49-4677-411e-a285-9fd1e86b0300",
+                "URL": "https://www.kdocs.cn/wo/sl/v11mSgCj",
+                "path": "/iframe",
+                "color": "#f59f70",
+                "child": true
+              },
+              {
+                "title": "\u5e94\u6536\u672a\u6536_\u9879\u76ee\u8d1f\u8d23",
+                "name": "c193c506-50b4-4cd7-a6f0-e805110e1cbf",
+                "URL": "https://www.kdocs.cn/wo/sl/v12rwaon",
+                "path": "/iframe",
+                "color": "#f59f70",
+                "child": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "\u6570\u636e\u8d44\u6e90\u5e93",
+        "name": "2285f1b9-da1b-44fd-a297-2c117e87ccb3",
+        "child": false,
+        "color": "#79bbff",
+        "children": [
+          {
+            "title": "\u9879\u76ee\u5e93",
+            "name": "4887785a-d3d0-41d2-aab2-7058f41b1258",
+            "URL": "https://www.kdocs.cn/wo/sl/v32C4TDC?app_id=3fte8w52w7dkmxCdmFfRO3",
+            "path": "/iframe",
+            "color": "#b3e19d",
+            "child": true
+          },
+          {
+            "title": "\u5408\u540c\u5e93",
+            "name": "e1b6d7cb-74aa-4113-bb01-9660175b8a8e",
+            "URL": "https://www.kdocs.cn/wo/sl/v31WAJZ6?app_id=1ozkMNcqoEfX92fgCeEZk1",
+            "path": "/iframe",
+            "color": "#b3e19d",
+            "child": true
+          },
+          {
+            "title": "\u6210\u679c\u5e93",
+            "name": "69cdf875-c3e3-45c0-bd01-ed3390cb95ab",
+            "URL": "https://www.kdocs.cn/wo/sl/v32L0PuQ?app_id=3XbHVDoN6AfqSY6DOoC9cw",
+            "path": "/iframe",
+            "color": "#b3e19d",
+            "child": true
+          },
+          {
+            "title": "\u5165\u5e93\u767b\u8bb0\u5e93",
+            "name": "d180b372-7f6b-4b88-ba22-222c8f86bf80",
+            "URL": "https://www.kdocs.cn/wo/sl/v34UUddz?app_id=3JKTik2Vpg3ysoaYlYE0Y9",
+            "path": "/iframe",
+            "color": "#b3e19d",
+            "child": true
+          },
+          {
+            "title": "\u5f00\u7968\u56de\u6b3e\u5e93",
+            "name": "d7596963-abf3-4516-911a-c1871f9128c9",
+            "URL": "https://www.kdocs.cn/wo/sl/v31BS0mP?app_id=2Alapuk2behVJFRF9XKpeG",
+            "path": "/iframe",
+            "color": "#b3e19d",
+            "child": true
+          },
+          {
+            "title": "\u5458\u5de5\u4fe1\u606f\u5e93",
+            "name": "39d1b47a-b016-48dc-a98d-b586a75ef822",
+            "URL": "https://www.kdocs.cn/wo/sl/v1QpzsC",
+            "path": "/iframe",
+            "color": "#b3e19d",
+            "child": true
+          }
+        ]
+      }
+    ],
+    "title": "\u6d4b\u8bd5\u7ba1\u7406\u603b\u7ad9",
+    "permissions": 7
+  },
+  "jyrjb": {
+    "title": "\u8f6f\u4ef6\u90e8",
+    "permissions": 0,
+    "data": [
+      {
+        "title": "\u7684\u70b9\u70b9\u6ef4\u6ef4",
+        "name": "8baa94f8-baa6-43d0-8bee-0c243a215635",
+        "child": false,
+        "color": "#79bbff",
+        "children": [
+          {
+            "title": "\u5927\u5f97\u591a",
+            "name": "c233c1d7-cbda-4b55-9622-da266a7cea73",
+            "URL": "https://f.kdocs.cn/ksform/w/write/hQpkcqpA#routePromt",
+            "path": "/iframe",
+            "color": "#b3e19d",
+            "child": true
+          },
+          {
+            "title": "\u65b0\u5efa\u8282\u70b9",
+            "name": "98c9093f-2f81-43f6-9ed6-c4bb23fecd85",
+            "URL": "",
+            "path": "/iframe",
+            "color": "#b3e19d",
+            "child": true
+          },
+          {
+            "title": "\u65b0\u5efa\u8282\u70b9",
+            "name": "0a83927d-76d3-4369-b344-8d34d41ecb64",
+            "URL": "",
+            "path": "/iframe",
+            "color": "#b3e19d",
+            "child": true
+          }
+        ]
+      }
+    ]
+  },
+  "jyfcb": {
+    "data": [
+      {
+        "title": "exf\u751f\u6210",
+        "name": "",
+        "URL": "",
+        "path": "/Dexf",
+        "color": "#b3e19d",
+        "child": true
+      }
+    ],
+    "title": "\u623f\u6d4b\u90e8",
+    "permissions": 0
+  },
+  "jydbb": {
+    "data": [],
+    "title": "\u4ee3\u529e\u90e8",
+    "permissions": 7
+  },
+  "jychgscw": {
+    "data": [
+      {
+        "title": "\u65b0\u5efa\u5206\u7ec4",
+        "name": "60b44239-bf07-46fc-89fe-7837aebe90f3",
+        "child": false,
+        "color": "#79bbff",
+        "children": [
+          {
+            "title": "\u5927\u5f97\u591a",
+            "name": "827403c2-7ee4-41fe-848a-1fe33edbdcab",
+            "URL": "http://192.168.2.200:8080/login?redirect=/",
+            "path": "/iframe",
+            "color": "#b3e19d",
+            "child": true
+          }
+        ]
+      }
+    ],
+    "title": "\u8d22\u52a1\u90e8",
+    "permissions": 7
+  },
+  "jylsgd": {
+    "data": [
+      {
+        "title": "\ud83d\udc65\u524d\u671f\u6d3d\u8c08\u4e2d",
+        "name": "1443b0d3-72e4-41bc-822e-10580209f210",
+        "URL": "https://www.kdocs.cn/wo/sl/v3y5Jw4?app_id=16LBnqs7shFNvLzKallQaZ",
+        "path": "/iframe",
+        "color": "#79bbff",
+        "child": true
+      },
+      {
+        "title": "\ud83d\udc65\u9879\u76ee\u7acb\u9879\u4e2d",
+        "name": "bfdcad84-c4c7-42d2-ad1c-3e59435aa31c",
+        "child": false,
+        "color": "#79bbff",
+        "children": [
+          {
+            "title": "\ud83d\udcca\u4eea\u8868\u76d8",
+            "name": "39965cab-f7d2-4aa8-a712-db537f9bd9d8",
+            "URL": "https://www.kdocs.cn/wo/sl/v12dr0wf",
+            "path": "/iframe",
+            "color": "#ffc87a",
+            "child": true
+          },
+          {
+            "title": "\ud83d\udccc\u5df2\u5f00\u7968\u672a\u56de\u6b3e",
+            "name": "cd1c5395-2d3a-4fcd-b564-ad50d82e50a5",
+            "child": false,
+            "color": "#ffc87a",
+            "children": [
+              {
+                "title": "1\u7ec4\u8c03\u67e5",
+                "name": "7c562173-255a-415d-a5d5-99f972571f63",
+                "URL": "https://www.kdocs.cn/wo/sl/v31uHbbG?app_id=6cmJBPNjO5dOz8cYBB96y8",
+                "path": "/iframe",
+                "color": "#b3e19d",
+                "child": true
+              },
+              {
+                "title": "2\u7ec4",
+                "name": "16e3b7e0-ef56-4f1f-8a0c-8682e519c4ad",
+                "URL": "https://www.kdocs.cn/wo/sl/v31S3OIK?app_id=1M25z9PWabS9PXJWxkPsVg",
+                "path": "/iframe",
+                "color": "#b3e19d",
+                "child": true
+              },
+              {
+                "title": "3\u7ec4",
+                "name": "5091ecbd-df1b-4a7d-9bf9-d9cbad7aebe3",
+                "URL": "https://www.kdocs.cn/wo/sl/v3XUu0D?app_id=1GAn4ndgsy8U0UWsHMRibY",
+                "path": "/iframe",
+                "color": "#b3e19d",
+                "child": true
+              },
+              {
+                "title": "4\u7ec4",
+                "name": "7500c786-f236-4175-a4e9-4564be743403",
+                "URL": "https://www.kdocs.cn/wo/sl/v32zoIQF?app_id=omY9SQ12r9EI4gEj64f4T",
+                "path": "/iframe",
+                "color": "#b3e19d",
+                "child": true
+              },
+              {
+                "title": "\u5176\u4ed6",
+                "name": "f7b8559f-b348-4918-9992-e3aac5cb6bcb",
+                "URL": "https://www.kdocs.cn/wo/sl/v3kwbSI?app_id=1WCHj2we3Stk7iEgtKxbK6",
+                "path": "/iframe",
+                "color": "#b3e19d",
+                "child": true
+              }
+            ]
+          },
+          {
+            "title": "\ud83d\udccc\u5df2\u7b7e\u5408\u540c_\u9700\u50ac\u6b3e",
+            "name": "b295b28d-ff6e-47e9-a40f-dea65f1eddce",
+            "child": false,
+            "color": "#ffc87a",
+            "children": [
+              {
+                "title": "\u9700\u738b\u603b_\u50ac\u6b3e",
+                "name": "2f6cf4b9-4acc-4236-87f7-2ede8cecf180",
+                "URL": "https://www.kdocs.cn/wo/sl/v3PdSY8?app_id=5zTK5aiVRLMY4PmYE7KAlY",
+                "path": "/iframe",
+                "color": "#b3e19d",
+                "child": true
+              },
+              {
+                "title": "\u9700\u53e4\u603b_\u50ac\u6b3e",
+                "name": "89dc7b3a-1f91-4b4a-91fd-23b04f2e531a",
+                "URL": "https://www.kdocs.cn/wo/sl/v33km78y?app_id=1rlburcymGWlCMT9eFvJPS",
+                "path": "/iframe",
+                "color": "#b3e19d",
+                "child": true
+              },
+              {
+                "title": "1\u7ec4\u8c03\u67e5_\u9700\u50ac\u6b3e",
+                "name": "1c1bcf1c-a944-497a-976b-26f1b26a798e",
+                "URL": "https://www.kdocs.cn/wo/sl/v33TB4QS?app_id=4MtHBTCPizfon3NtPYozHi",
+                "path": "/iframe",
+                "color": "#b3e19d",
+                "child": true
+              },
+              {
+                "title": "2\u7ec4_\u9700\u50ac\u6b3e",
+                "name": "3147c2c6-1437-4450-9c91-1cf35d4c6524",
+                "URL": "https://www.kdocs.cn/wo/sl/v32aBIFz?app_id=1jLpfm2kXSIkJ26tp3tkcR",
+                "path": "/iframe",
+                "color": "#b3e19d",
+                "child": true
+              },
+              {
+                "title": "3\u7ec4_\u9700\u50ac\u6b3e",
+                "name": "715ee455-bffe-44e3-a45e-939208ff3e59",
+                "URL": "https://www.kdocs.cn/wo/sl/v328d6Hv?app_id=9JxKTuB4kVJzrONK41MqB",
+                "path": "/iframe",
+                "color": "#b3e19d",
+                "child": true
+              },
+              {
+                "title": "4\u7ec4_\u9700\u50ac\u6b3e",
+                "name": "e5bc5806-5784-446b-a54a-c69fc2536226",
+                "URL": "https://www.kdocs.cn/wo/sl/v334itQw?app_id=2X7EXBTB61UWMff1Kvjt9q",
+                "path": "/iframe",
+                "color": "#b3e19d",
+                "child": true
+              },
+              {
+                "title": "\u8f6f\u4ef6_\u9700\u50ac\u6b3e",
+                "name": "bfdfcf6c-ef4b-4530-8b12-1030d800255d",
+                "URL": "https://www.kdocs.cn/wo/sl/v36cBBd?app_id=6Q51J7fJvpYAJistjq2jcm",
+                "path": "/iframe",
+                "color": "#b3e19d",
+                "child": true
+              },
+              {
+                "title": "\u623f\u6d4b_\u9700\u50ac\u6b3e",
+                "name": "b07f0879-75ec-46ba-b11a-19df883b6ab2",
+                "URL": "https://www.kdocs.cn/wo/sl/v335mQju?app_id=55CA38lmIxfO3VViAxpUk7",
+                "path": "/iframe",
+                "color": "#b3e19d",
+                "child": true
+              },
+              {
+                "title": "\u4ee3\u529e_\u9700\u50ac\u6b3e",
+                "name": "e0323574-09e9-4f40-a144-700edeb9d933",
+                "URL": "https://www.kdocs.cn/wo/sl/v31KXNsM?app_id=3nFQFKanAcDcb3TDKwZ66V",
+                "path": "/iframe",
+                "color": "#b3e19d",
+                "child": true
+              },
+              {
+                "title": "\u5176\u4ed6_\u9700\u50ac\u6b3e",
+                "name": "d7a4079a-43c5-46df-af78-4eca7e9a8fda",
+                "URL": "https://www.kdocs.cn/wo/sl/v3dnVTA?app_id=4BUNIAsEYKviNzaajMeyr7",
+                "path": "/iframe",
+                "color": "#b3e19d",
+                "child": true
+              },
+              {
+                "title": "\u8d85\u4e00\u5468\u672a\u50ac\u6b3e",
+                "name": "dc50dc8f-b81f-4fd2-92e5-689f5cf77a63",
+                "URL": "https://www.kdocs.cn/wo/sl/v33DNpyC?app_id=5Ca1WZvbX1Ztjs7wDEE7FZ",
+                "path": "/iframe",
+                "color": "#e19d9d",
+                "child": true
+              }
+            ]
+          },
+          {
+            "title": "\ud83d\udccc\u672a\u7b7e\u5408\u540c_\u9700\u8ddf\u8fdb",
+            "name": "2b1e1638-2b0a-4431-adfd-5d35ff805a5d",
+            "child": false,
+            "color": "#ffc87a",
+            "children": [
+              {
+                "title": "\u9700\u738b\u603b_\u8ddf\u8fdb",
+                "name": "c6032fa5-ed8f-4b29-81cd-7666510430f6",
+                "URL": "https://www.kdocs.cn/wo/sl/v3cHZhY?app_id=mS8Da9w066RoqgznnPRNa",
+                "path": "/iframe",
+                "color": "#b3e19d",
+                "child": true
+              },
+              {
+                "title": "\u9700\u53e4\u603b_\u8ddf\u8fdb",
+                "name": "95ccf6d3-bb2c-4f64-9b04-727dbd04a90b",
+                "URL": "https://www.kdocs.cn/wo/sl/v3sIMfX?app_id=72OEQJs26wxpAiNx1sNt7z",
+                "path": "/iframe",
+                "color": "#b3e19d",
+                "child": true
+              },
+              {
+                "title": "1\u7ec4\u8c03\u67e5_\u8ddf\u8fdb",
+                "name": "a0d55591-50b1-4a2e-9c93-163fee105cee",
+                "URL": "https://www.kdocs.cn/wo/sl/v31oPBhm?app_id=4sGY1cejowcOH4yIScpmdv",
+                "path": "/iframe",
+                "color": "#b3e19d",
+                "child": true
+              },
+              {
+                "title": "2\u7ec4_\u8ddf\u8fdb",
+                "name": "528d7684-631d-4d7e-9eaa-0245ac7bf6f8",
+                "URL": "https://www.kdocs.cn/wo/sl/v32Cgngj?app_id=5As1gtN6iWjJ6xg3mdXKFs",
+                "path": "/iframe",
+                "color": "#b3e19d",
+                "child": true
+              },
+              {
+                "title": "3\u7ec4_\u8ddf\u8fdb",
+                "name": "15c61ca2-ba1d-4023-87f2-2d7f418c7780",
+                "URL": "https://www.kdocs.cn/wo/sl/v32zC9LN?app_id=6JfKl7un4L7nTe21Zn76zW",
+                "path": "/iframe",
+                "color": "#b3e19d",
+                "child": true
+              },
+              {
+                "title": "4\u7ec4_\u8ddf\u8fdb",
+                "name": "5c018832-3710-4a62-ae0c-f2da66128242",
+                "URL": "https://www.kdocs.cn/wo/sl/v333KcXJ?app_id=4KL1XmA7TCRtR5dNJxnoU2",
+                "path": "/iframe",
+                "color": "#b3e19d",
+                "child": true
+              },
+              {
+                "title": "\u8f6f\u4ef6_\u8ddf\u8fdb",
+                "name": "2f5fc574-f48d-4d4f-9584-2f0adc9d35b5",
+                "URL": "https://www.kdocs.cn/wo/sl/v34IY3Un?app_id=ksaD6HWptqRoGPsWqsxk6",
+                "path": "/iframe",
+                "color": "#b3e19d",
+                "child": true
+              },
+              {
+                "title": "\u623f\u6d4b_\u8ddf\u8fdb",
+                "name": "4a75cca5-1041-49c2-a039-00a2bbfbc98e",
+                "URL": "https://www.kdocs.cn/wo/sl/v312NKyY?app_id=48J41YRqzMEsKSClJIGj1D",
+                "path": "/iframe",
+                "color": "#b3e19d",
+                "child": true
+              },
+              {
+                "title": "\u4ee3\u529e_\u8ddf\u8fdb",
+                "name": "fbf3376e-20f5-456b-9374-4676e45d66b6",
+                "URL": "https://www.kdocs.cn/wo/sl/v3INzxE?app_id=3yyfeCPMGVMI44wrw3rRuN",
+                "path": "/iframe",
+                "color": "#b3e19d",
+                "child": true
+              },
+              {
+                "title": "\u5176\u4ed6_\u8ddf\u8fdb",
+                "name": "7ffadb5d-923e-413f-809d-80d84161cfd9",
+                "URL": "https://www.kdocs.cn/wo/sl/v3J2kKm?app_id=395ORBJGbeaJqA0MsxU3Ug",
+                "path": "/iframe",
+                "color": "#b3e19d",
+                "child": true
+              },
+              {
+                "title": "\u8d85\u4e00\u5468\u672a\u8ddf\u8fdb",
+                "name": "6eae36be-9fee-4cad-bf44-cc336a723b2a",
+                "URL": "https://www.kdocs.cn/wo/sl/v3d1QNz?app_id=1j6fbaGroXBomIb9tWd9Pf",
+                "path": "/iframe",
+                "color": "#e19d9d",
+                "child": true
+              }
+            ]
+          },
+          {
+            "title": "\ud83d\udea9\u9879\u76ee\u6b63\u5728\u5b9e\u65bd\u9879\u76ee",
+            "name": "6b6d6a47-de38-4f23-a0e5-36fa3a5e946e",
+            "child": false,
+            "color": "#ffc87a",
+            "children": [
+              {
+                "title": "1\u7ec4\u8c03\u67e5",
+                "name": "9c959895-ee4d-44a3-bc6f-baa5a91f23d8",
+                "URL": "https://www.kdocs.cn/wo/sl/v33ntGbo?app_id=3Io0jBIapiNj515fEwpOgc",
+                "path": "/iframe",
+                "color": "#b3e19d",
+                "child": true
+              },
+              {
+                "title": "2\u7ec4",
+                "name": "4deda56f-713b-4e8b-afaf-fbc2f39a5e91",
+                "URL": "https://www.kdocs.cn/wo/sl/v335w0BO?app_id=1n651VsMyJFmlBv8PwbEOl",
+                "path": "/iframe",
+                "color": "#b3e19d",
+                "child": true
+              },
+              {
+                "title": "3\u7ec4",
+                "name": "305a5006-2c4d-49fb-b2ba-5056e9c767bb",
+                "URL": "https://www.kdocs.cn/wo/sl/v34HQHE4?app_id=2jix6q5qeyw7TkRWDzMTRQ",
+                "path": "/iframe",
+                "color": "#b3e19d",
+                "child": true
+              },
+              {
+                "title": "4\u7ec4",
+                "name": "d7409ecd-4078-4d31-8c03-5cbcad614b54",
+                "URL": "https://www.kdocs.cn/wo/sl/v33AbRJa?app_id=bq9QjuM6Q85zeYAdi02ZC",
+                "path": "/iframe",
+                "color": "#b3e19d",
+                "child": true
+              },
+              {
+                "title": "\u5176\u4ed6\u7ec4",
+                "name": "2ce85eaf-b083-43bb-92f5-706a05c9b2a3",
+                "URL": "https://www.kdocs.cn/wo/sl/v31Mw1SB?app_id=2ZOdQHk3zD9fXpxjfS5BTM",
+                "path": "/iframe",
+                "color": "#b3e19d",
+                "child": true
+              },
+              {
+                "title": "\u5f53\u524d\u6682\u505c\u9879\u76ee",
+                "name": "677d99f7-e05a-429c-98de-c72d266d056f",
+                "URL": "https://www.kdocs.cn/wo/sl/v33uWkdB?app_id=1jJZnDOd9FPsTmZ2dxRjHO",
+                "path": "/iframe",
+                "color": "#e19d9d",
+                "child": true
+              },
+              {
+                "title": "\u5f53\u524d\u5ef6\u671f\u9879\u76ee",
+                "name": "269a0b1d-320c-4bf9-97b0-2ed9cb1b2b6d",
+                "URL": "https://www.kdocs.cn/wo/sl/v33JndD1?app_id=6Dd9vQr9Oanfsz9nYoYNFM",
+                "path": "/iframe",
+                "color": "#e19d9d",
+                "child": true
+              }
+            ]
+          },
+          {
+            "title": "\u2705\u8ddf\u8e2a\u8bb0\u5f55",
+            "name": "830bf0b1-4df3-4555-bfe2-1eb7ca516947",
+            "URL": "https://www.kdocs.cn/wo/sl/v31Y3xTp?app_id=4iqeMudFdGXc1sY9d1Wdr4",
+            "path": "/iframe",
+            "color": "#ffc87a",
+            "child": true
+          }
+        ]
+      },
+      {
+        "title": "\ud83d\udc65\u9879\u76ee\u552e\u540e\u5904\u7406",
+        "name": "c08fb8b1-3df3-4caa-b2e1-dd2f56942ae1",
+        "child": false,
+        "color": "#79bbff",
+        "children": [
+          {
+            "title": "\u50ac\u6b3e\u51fd",
+            "name": "ed1995d1-971d-4a86-bebc-0be1f9503080",
+            "URL": "https://www.kdocs.cn/wo/sl/v33c71qo?app_id=6dFvmv8gXvcaNuvUhJGGNO",
+            "path": "/iframe",
+            "color": "#b3e19d",
+            "child": true
+          },
+          {
+            "title": "\u6cd5\u5f8b\u8d77\u8bc9",
+            "name": "a54bd9a0-87a2-4e14-b36d-2376175c3057",
+            "URL": "https://www.kdocs.cn/wo/sl/v326BwZ0?app_id=5OllJa9hlx61v1x0uoOTcA",
+            "path": "/iframe",
+            "color": "#b3e19d",
+            "child": true
+          },
+          {
+            "title": "\u574f\u8d26\u5904\u7406",
+            "name": "bd5d5453-43e6-4203-8b2b-e7f5bbc9d5e7",
+            "URL": "https://www.kdocs.cn/wo/sl/v31efR8h?app_id=4vdmaJnnqOyhHQ6zTT0qdY",
+            "path": "/iframe",
+            "color": "#b3e19d",
+            "child": true
+          },
+          {
+            "title": "\u9879\u76ee\u9057\u5931",
+            "name": "23758c63-5eca-4dda-826a-1bc55faebba2",
+            "URL": "https://www.kdocs.cn/wo/sl/v31nfgHj?app_id=6z3mOYQWaQRQM1OFpN4K5R",
+            "path": "/iframe",
+            "color": "#b3e19d",
+            "child": true
+          }
+        ]
+      },
+      {
+        "title": "\ud83d\udc65\u7edf\u8ba1\u62a5\u8868\u4e2d\u5fc3",
+        "name": "78d96aff-11ff-4dba-a916-8508adda101c",
+        "child": false,
+        "color": "#79bbff",
+        "children": [
+          {
+            "title": "\ud83d\udccc\u5f53\u5e74\u65b0\u589e\u9879\u76ee\u7edf\u8ba1",
+            "name": "88844ce0-a658-460a-a04c-2928016b5aaa",
+            "URL": "https://www.kdocs.cn/wo/sl/v12JN19k",
+            "path": "/iframe",
+            "color": "#fdc679",
+            "child": true
+          },
+          {
+            "title": "\ud83d\udccc\u5e94\u6536\u672a\u6536\u6b3e\u9879\u7edf\u8ba1",
+            "name": "0cf358d6-1c9f-4881-86ce-6a310d5a69eb",
+            "child": false,
+            "color": "#ffc87a",
+            "children": [
+              {
+                "title": "\u672a\u6536\u6309\u90e8\u95e8\u6c47\u603b",
+                "name": "53d0f640-b4ce-46aa-acf9-f79f6cce214a",
+                "URL": "https://www.kdocs.cn/wo/sl/v11BB1Wb",
+                "path": "/iframe",
+                "color": "#b3e19d",
+                "child": true
+              },
+              {
+                "title": "\u672a\u6536\u6309\u4eba\u5458\u6c47\u603b",
+                "name": "1641538f-ae6c-4a16-a380-63e31ea851a5",
+                "URL": "https://www.kdocs.cn/wo/sl/v131UHjB",
+                "path": "/iframe",
+                "color": "#b3e19d",
+                "child": true
+              }
+            ]
+          },
+          {
+            "title": "\ud83d\udccc\u5386\u5e74\u9879\u76ee\u7edf\u8ba1",
+            "name": "9e03a333-17c1-4249-93e8-1c59bcd80dac",
+            "child": false,
+            "color": "#ffc87a",
+            "children": [
+              {
+                "title": "\u6309\u8d23\u4efb\u90e8\u95e8\u6c47\u603b",
+                "name": "c1646672-e739-44cc-8c8e-149e2201120d",
+                "URL": "https://www.kdocs.cn/wo/sl/v12cYRCC",
+                "path": "/iframe",
+                "color": "#b3e19d",
+                "child": true
+              },
+              {
+                "title": "\u6309\u4fe1\u606f\u6765\u6e90\u6c47\u603b",
+                "name": "e92b3eb3-6606-46c6-95ab-aee568a4438a",
+                "URL": "https://www.kdocs.cn/wo/sl/v12axYYB",
+                "path": "/iframe",
+                "color": "#b3e19d",
+                "child": true
+              },
+              {
+                "title": "\u6309\u5e02\u573a\u843d\u5b9e\u7edf\u8ba1",
+                "name": "86eb1720-b8c1-4146-8059-f978c3cbdab5",
+                "URL": "https://www.kdocs.cn/wo/sl/v11t7L7r",
+                "path": "/iframe",
+                "color": "#b3e19d",
+                "child": true
+              },
+              {
+                "title": "\u6309\u9879\u76ee\u8d1f\u8d23\u7edf\u8ba1",
+                "name": "30c15867-f0a1-453e-bf04-58912bbda133",
+                "URL": "https://www.kdocs.cn/wo/sl/v120GFxD",
+                "path": "/iframe",
+                "color": "#b3e19d",
+                "child": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "\ud83d\udc65\u9879\u76ee\u8d44\u6e90\u603b\u5e93",
+        "name": "c519bc73-e8bf-4301-a1d8-4810cd13d3b5",
+        "child": false,
+        "color": "#79bbff",
+        "children": [
+          {
+            "title": "\u8c03\u67e5",
+            "name": "2ac1d795-1009-406a-9a3d-2496e9457837",
+            "URL": "https://www.kdocs.cn/wo/sl/v3mUNXI?app_id=71Pnv9FgbowOiouXyeLZ9J",
+            "path": "/iframe",
+            "color": "#b3e19d",
+            "child": true
+          },
+          {
+            "title": "1\u7ec4",
+            "name": "8f8e06e0-7946-4372-a037-a899730e879c",
+            "URL": "https://www.kdocs.cn/wo/sl/v31xu8h1?app_id=1p1s84MLyzLWGQjZrQIYlq",
+            "path": "/iframe",
+            "color": "#b3e19d",
+            "child": true
+          },
+          {
+            "title": "2\u7ec4",
+            "name": "23ef2bd0-bc7f-4eb6-899c-04d2acca62e2",
+            "URL": "https://www.kdocs.cn/wo/sl/v33DplYO?app_id=3R6PyInpOmkdtvqTeoh4P0",
+            "path": "/iframe",
+            "color": "#b3e19d",
+            "child": true
+          },
+          {
+            "title": "3\u7ec4",
+            "name": "382d0b71-409f-41aa-aeaf-7eb0475fe622",
+            "URL": "https://www.kdocs.cn/wo/sl/v31e2IYW?app_id=auGW3Tr7rwyKiy5Vf6nhN",
+            "path": "/iframe",
+            "color": "#b3e19d",
+            "child": true
+          },
+          {
+            "title": "4\u7ec4",
+            "name": "54463c06-b3a8-4b8d-b029-6b2e356b139b",
+            "URL": "https://www.kdocs.cn/wo/sl/v34P4Dh3?app_id=3U5FwC7w2vBVHJPsaipVqe",
+            "path": "/iframe",
+            "color": "#b3e19d",
+            "child": true
+          },
+          {
+            "title": "\u5176\u4ed6\u7ec4",
+            "name": "cfbaaeb6-bb91-4558-a1d4-f4712b690f3d",
+            "URL": "https://www.kdocs.cn/wo/sl/v32lMnLe?app_id=4WrkHa83m7dCQSWATQnpsV",
+            "path": "/iframe",
+            "color": "#b3e19d",
+            "child": true
+          },
+          {
+            "title": "\u5408\u540c\u7ef4\u62a4\u4e13\u53e3",
+            "name": "2c497223-0781-4925-95f0-65cd7e4a6dd2",
+            "URL": "https://www.kdocs.cn/wo/sl/v3J2SHP?app_id=6ccC8IEk97zlZ5hoFBib9d",
+            "path": "/iframe",
+            "color": "#9da9e1",
+            "child": true
+          },
+          {
+            "title": "\u8d22\u52a1\u7ef4\u62a4\u4e13\u53e3",
+            "name": "cb24054d-e03e-40dc-8f3f-334c82af838b",
+            "URL": "https://www.kdocs.cn/wo/sl/v31ChvLe?app_id=6BZc30USHan3EMMXufJU8N",
+            "path": "/iframe",
+            "color": "#ff7a7a",
+            "child": true
+          }
+        ]
+      }
+    ],
+    "title": "\u9879\u76ee\u8ddf\u8e2a\u660e\u7ec6",
+    "permissions": 14
+  }
+}
