@@ -76,7 +76,7 @@ async def add_use(req: Request):
 
 @app.get(f"{rewrite}/ip_access_authorization")
 async def ip_access_authorization(args_ip:str):
-    ip_access = ['localhost', '192.168.2.139','192.168.2.50','183.71.245.98']
+    ip_access = ['localhost', '192.168.2.139','192.168.2.50','183.71.245.98','192.168.2.71']
     if  args_ip not in ip_access:
         return {"state": state.ERR, "res": "禁止访问非授权地址。"}
     else:
